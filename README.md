@@ -111,3 +111,21 @@ https://ble.ir/UDLbot
 - وب سایت : avasam.ir 
 
 
+
+---
+
+## فایل های دانلود شده
+
+- [OllamaSetup](https://github.com/abbas-farahani/file-downloader/tree/main/downloads/OllamaSetup)
+
+---
+
+<!-- AVASAM_HELP -->
+
+## 📦 دانلود همه فایل ها یکجا
+
+**[⬇️ دانلود کل مخزن به صورت ZIP](https://github.com/abbas-farahani/file-downloader/archive/refs/heads/main.zip)**
+
+---
+
+طراحی شده توسط [آواسام](https://avasam.ir) 💚
